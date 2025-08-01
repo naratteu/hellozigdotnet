@@ -1,5 +1,2 @@
 ﻿<Project Sdk="Vezel.Zig.Sdk">
-    <PropertyGroup>
-        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    </PropertyGroup>
 </Project>
